@@ -77,11 +77,12 @@ src/
 
 Includes support for ESLint plugins like `react-hooks`, `react-refresh`, and `typescript-eslint`.
 
-## 📝 License
+## 📜 License
 
-This project is [MIT Licensed](LICENSE).
-
-```
+This project is licensed under the [MIT License](LICENSE).
 
 ---
-```
+
+Made with ❤️ by [codebuster](https://portfolio-website-lemon-alpha.vercel.app/)
+
+
