@@ -1,4 +1,3 @@
-````markdown
 # Vite React TypeScript Starter
 
 A modern frontend starter template using **Vite**, **React 18**, **TypeScript**, **Tailwind CSS**, and **ESLint** for rapid development.
@@ -16,10 +15,9 @@ A modern frontend starter template using **Vite**, **React 18**, **TypeScript**,
 
 ### 1. Clone the repo
 
-```bash
 git clone https://github.com/your-username/vite-react-typescript-starter.git
 cd vite-react-typescript-starter
-````
+
 
 ### 2. Install dependencies
 
